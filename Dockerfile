@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17-jdk-alpine
+FROM eclipse-temurin:17.0.12_7-jdk-ubi9-minimal
 
 WORKDIR /app
 
